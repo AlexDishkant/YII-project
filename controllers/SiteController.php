@@ -121,5 +121,5 @@ class SiteController extends Controller
      *
      * @return string
      */
-   
+
 }
